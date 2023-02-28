@@ -6,16 +6,20 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>RFS Electric</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
-        <p className="description">
-          Get started by editing <code>pages/index.js</code>
+        <Header title="RFS Electric" />
+        <p className="details">
+          License# 1010511, Call for any electric job needed, Fix electric issues, Fuses, Panels, Install Solar Panels, EV Chargers, Lighting and more. Call: (213) 278-2812
         </p>
       </main>
+  
+      <body>
+        <img src="rfs.jpg" width="500" height="375"></img>
+      </body>
 
       <Footer />
     </div>
