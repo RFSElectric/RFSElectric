@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="RFS Electric" />
+        <Header title="RFS Electric Inc. License# 1010511" />
         <p className="details">
-          License# 1010511, Call for any electric job needed, Fix electric issues, Fuses, Panels, Install Solar Panels, EV Chargers, Lighting and more. Call: (213) 278-2812
+          Call (213) 278-2812 for any Electric Job, Fix Electric Issues, Fuses, Panels, Install Solar Panels, EV Chargers, Lighting and more. 
         </p>
       </main>
   
